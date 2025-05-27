@@ -77,7 +77,7 @@ class _HomePageState extends State<HomePage> {
         },
         foregroundColor: Colors.yellow,
         backgroundColor: Colors.black,
-        child: Icon(Icons.add, size: 50),
+        child: Icon(Icons.add_circle, size: 50),
       ),
     );
   }
