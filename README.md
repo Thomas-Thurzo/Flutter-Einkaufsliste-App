@@ -1,2 +1,2 @@
 # Flutter-Einkaufsliste-App
-Eine App zum Schreibne einer Einkaufsliste.
+Eine App zum Schreiben einer Einkaufsliste.
